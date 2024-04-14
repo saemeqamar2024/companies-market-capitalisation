@@ -30,11 +30,11 @@ Here is a summary of the findings from this project:
 -	Amongst the G20 countries, The United States of America has over 3,600 companies (which is, by far, the highest).
 
 ## Key Definitions
-Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
-Large Cap companies: companies worth greater than $10 trillion.
-Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
-Small Cap companies: companies worth between $250 million and less than $1 billion.
-Micro Cap companies: companies worth less than $250 million.
+- Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
+- Large Cap companies: companies worth greater than $10 trillion.
+- Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
+- Small Cap companies: companies worth between $250 million and less than $1 billion.
+- Micro Cap companies: companies worth less than $250 million.
 
 ## Note
 The data used is from 29th January 2024. The original data on www.companiesmarketcap.com is constantly changing.
