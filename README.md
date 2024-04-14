@@ -71,8 +71,7 @@ The data used is from 29th January 2024. The original data on www.companiesmarke
 
 ##### Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
 
-The formula to calculate market capitalisation is as follows: 
-##### Market Capitalisation = Outstanding Shares X Stock Price.
+The formula to calculate market capitalisation is as follows: ##### Market Capitalisation = Outstanding Shares X Stock Price.
 
 ##### Large Cap companies: companies worth greater than $10 trillion.
 ##### Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
