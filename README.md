@@ -16,6 +16,15 @@ The dataset was originally created on 29th January 2024 on www.companiesmarketca
 ### Visualisations
 
 ![image](https://github.com/saemeqamar2024/companies-market-capitalisation/assets/163443584/cf9bd802-7d5a-473d-af9e-00374e4a802b)
+![image](https://github.com/saemeqamar2024/companies-market-capitalisation/assets/163443584/36e6ddfb-b0f4-4f2c-8dad-24745b2b9322)
+![image](https://github.com/saemeqamar2024/companies-market-capitalisation/assets/163443584/3af066a4-4512-444f-913b-91e1eafe386f)
+![image](https://github.com/saemeqamar2024/companies-market-capitalisation/assets/163443584/d924cfab-1266-4dc3-9113-c7c76be185f1)
+![image](https://github.com/saemeqamar2024/companies-market-capitalisation/assets/163443584/ff22f66c-c289-4f6f-b16b-6e0a550b287b)
+
+
+
+
+
 
 
 
