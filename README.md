@@ -25,23 +25,23 @@ The dataset was originally created on 29th January 2024 on www.companiesmarketca
 
 Microsoft Excel was used for data cleaning, transformation and analysis.
 
-## Approach Taken
+### Approach Taken
 
 This was a quantitative analysis. Here is a high-level overview of the data cleaning steps taken:
 
-##### Added
+#### Added
   - 1 column for classifying companies by their Market Capitalisation category.
   - Highlighting "Market Capitalisation" figures according to their categories.
   - 1 column for showing the number of shares each company has.
 
-##### Changed
+#### Changed
   - "Marketcap" column renamed to "Market Capitalisation".
   - "Country Flag" column renamed to "Country Abbreviation".
   - "Market Capitalisation" column values converted to currency values with 2 decimal places.
   - Rounding all "Stock prices" to 2 decimal places.
   - Abbreviated/short-named countries renamed to their respective full names.
 
-##### Removed
+#### Removed
   - "Blanks" from "Country Name".
   - "Company Codes" column (not useful for analysis).
   - "NA" values from "Market Capitalisation" column.
@@ -51,20 +51,29 @@ This was a quantitative analysis. Here is a high-level overview of the data clea
   - Stock price values that are less than $0.01.
   - "Origin Flag" column (not useful for analysis).
 
-##### Fixed
+#### Fixed
   - Entered "Germany" as country for the company called "Ceconomy".
 
+### Outcomes
 
+Here is a summary of the findings from this project:
 
+-	Microsoft tops the list of market capitalisations values, with a worth of over $3 trillion, followed by Apple and 
+  Saudi Arabia Aramco (who are worth between $2 trillion and $3 trillion).
+-	“Large cap” and “Mid cap” companies have almost 95% of the number of shares in total. 
+-	Over 70% of Top 500 companies have a stock price range between $0.35 and $170.35.
+-	Amongst the G20 countries, The United States of America has over 3,600 companies (which is, by far, the highest).
 
+###### Note: The data used is from 29th January 2024. The original data on www.companiesmarketcap.com is constantly changing.
 
+### Key Definitions
 
+###### Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
 
+The formula to calculate market capitalisation is as follows: 
+###### Market Capitalisation = Outstanding Shares X Stock Price.
 
-
-
-
-
-
-
-
+###### Large Cap companies: companies worth greater than $10 trillion.
+###### Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
+###### Small Cap companies: companies worth between $250 million and less than $1 billion.
+###### Micro Cap companies: companies worth less than $250 million.
