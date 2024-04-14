@@ -47,5 +47,5 @@ Here is a summary of the findings from this project:
 -	Over 70% of Top 500 companies have a stock price range between $0.35 and $170.35.
 -	Amongst the G20 countries, The United States of America has over 3,600 companies (which is, by far, the highest).
 
-##### Note: 
+### Note: 
 The data used is from 29th January 2024. The original data on www.companiesmarketcap.com is constantly changing.
