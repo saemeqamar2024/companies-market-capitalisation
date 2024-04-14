@@ -15,7 +15,8 @@ The dataset was originally created on 29th January 2024 on www.companiesmarketca
 
 ### Visualisations
 
-![image](https://github.com/saemeqamar2024/companies-market-capitalisation/assets/163443584/c681bb50-3020-4979-ab47-2f6914e175ea)
+![image](https://github.com/saemeqamar2024/companies-market-capitalisation/assets/163443584/cf9bd802-7d5a-473d-af9e-00374e4a802b)
+
 
 
 
