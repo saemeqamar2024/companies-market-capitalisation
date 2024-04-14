@@ -69,11 +69,12 @@ The data used is from 29th January 2024. The original data on www.companiesmarke
 
 ### Key Definitions
 
-##### Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
+- Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
 
-The formula to calculate market capitalisation is as follows: ##### Market Capitalisation = Outstanding Shares X Stock Price.
+The formula to calculate market capitalisation is as follows: 
+- Market Capitalisation = Outstanding Shares X Stock Price.
 
-##### Large Cap companies: companies worth greater than $10 trillion.
-##### Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
-##### Small Cap companies: companies worth between $250 million and less than $1 billion.
-##### Micro Cap companies: companies worth less than $250 million.
+- Large Cap companies: companies worth greater than $10 trillion.
+- Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
+- Small Cap companies: companies worth between $250 million and less than $1 billion.
+- Micro Cap companies: companies worth less than $250 million.
