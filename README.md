@@ -9,6 +9,14 @@ The main objectives of this analysis were to find out the following information:
 -  The number of companies, in the Top 500, that belong to different stock price ranges.
 -  The number of companies that belong to each of the G20 countries.
 
+### Key Terms
+
+- Market Capitalisation: the total dollar value of all of the outstanding shares of a company. 
+- Large Cap companies: companies worth greater than $10 trillion.
+- Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
+- Small Cap companies: companies worth between $250 million and less than $1 billion.
+- Micro Cap companies: companies worth less than $250 million.
+
 ### Data Understanding
 
 The dataset was originally created on 29th January 2024 on www.companiesmarketcap.com and was subsequently made available on Kaggle. The data was downloaded from Kaggle. 
@@ -66,15 +74,3 @@ Here is a summary of the findings from this project:
 
 ##### Note: 
 The data used is from 29th January 2024. The original data on www.companiesmarketcap.com is constantly changing.
-
-### Key Definitions
-
-- Large Cap companies: companies worth greater than $10 trillion.
-- Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
-- Small Cap companies: companies worth between $250 million and less than $1 billion.
-- Micro Cap companies: companies worth less than $250 million.
-
-- Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
-
-The formula to calculate market capitalisation is as follows: 
-- Market Capitalisation = Outstanding Shares X Stock Price.
