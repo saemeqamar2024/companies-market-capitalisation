@@ -35,32 +35,7 @@ Microsoft Excel was used for data cleaning, transformation and analysis.
 
 ### Approach Taken
 
-This was a quantitative analysis. Here is a high-level overview of the data cleaning steps taken:
-
-#### Added
-  - 1 column for classifying companies by their Market Capitalisation category.
-  - Highlighting "Market Capitalisation" figures according to their categories.
-  - 1 column for showing the number of shares each company has.
-
-#### Changed
-  - "Marketcap" column renamed to "Market Capitalisation".
-  - "Country Flag" column renamed to "Country Abbreviation".
-  - "Market Capitalisation" column values converted to currency values with 2 decimal places.
-  - Rounding all "Stock prices" to 2 decimal places.
-  - Abbreviated/short-named countries renamed to their respective full names.
-
-#### Removed
-  - "Blanks" from "Country Name".
-  - "Company Codes" column (not useful for analysis).
-  - "NA" values from "Market Capitalisation" column.
-  - "$0 M" values from "Market Capitalisation" column.
-  - Duplicate company names.
-  - "NA" values from "Stock Prices".
-  - Stock price values that are less than $0.01.
-  - "Origin Flag" column (not useful for analysis).
-
-#### Fixed
-  - Entered "Germany" as country for the company called "Ceconomy".
+This was a quantitative analysis. All the data cleaning steps have been given in the report (which is included in this repository). 
 
 ### Outcomes
 
